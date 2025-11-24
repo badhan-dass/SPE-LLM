@@ -10,6 +10,8 @@ Paper Link: https://arxiv.org/pdf/2505.23817
 
 # Framework Overview
 
+![CHEESE!](FrameworkOverview.png) 
+
 # How to use the code
 
 1. Download the required datasets from the sources mentioed in the paper.
