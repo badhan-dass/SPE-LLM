@@ -9,8 +9,6 @@ The system prompt in Large Language Models (LLMs) plays a pivotal role in guidin
 Paper Link: https://arxiv.org/pdf/2505.23817
 
 # Framework Overview
-
-
 ![CHEESE!](FrameworkOverview.png)
 
 # How to use the code
