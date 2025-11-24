@@ -10,7 +10,8 @@ Paper Link: https://arxiv.org/pdf/2505.23817
 
 # Framework Overview
 
-![CHEESE!](FrameworkOverview.png)s
+
+![CHEESE!](FrameworkOverview.png)
 
 # How to use the code
 
